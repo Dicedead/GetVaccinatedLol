@@ -5,7 +5,7 @@ Just get vaccinated (if you can) lol.
 
 [Download the PDF itself](https://github.com/Dicedead/GetVaccinatedLol/raw/main/getVaccinated.pdf)
 
- ##Introduction: Why this document?
+## Introduction: Why this document?
  
 Eyyo! 
 
