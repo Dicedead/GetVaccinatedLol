@@ -1,9 +1,11 @@
 # GetVaccinatedLol
 Just get vaccinated (if you can) lol.
 
-[View on Overleaf **(use this if on mobile)**](https://www.overleaf.com/read/nhcntkqhchwr)
+[View on Overleaf **- select this if on mobile, here's how to download the PDF from Overleaf:**](https://www.overleaf.com/read/nhcntkqhchwr)
 
-[Download the PDF itself (you can choose either if on PC)](https://github.com/Dicedead/GetVaccinatedLol/raw/main/getVaccinated.pdf) 
+![overleaf download](https://github.com/Dicedead/GetVaccinatedLol/blob/main/overleaf_download.jpg "Overleaf download button!")
+
+[Download the PDF directly **- only click if on PC**](https://github.com/Dicedead/GetVaccinatedLol/raw/main/getVaccinated.pdf) 
 
 ## Introduction: Why this document?
  
